@@ -1,0 +1,23 @@
+{
+  "name": "dad-demo-npm-pkg",
+  "version": "1.0.0",
+  "description": "Lorem in dolor...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dad demo",
+    "dad dong david"
+  ],
+  "homepage": "https://github.com/owner/project#readme",
+  "author": "David Dong",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/huukimit/simple-scrollspy.git"
+  },
+  "bugs": {
+    "url": "https://github.com/huukimit/simple-scrollspy/issues"
+  }
+}
